@@ -1,33 +1,57 @@
+<style>
+    .block {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 250px;
+        font-size: 16px;
+    }
+    .text {
+        margin: 15px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+</style>
+
 
 <h1 align="center">
     <a href="">
-        <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=35&duration=6000&pause=1000&color=44F77E&center=true&vCenter=true&width=435&lines=Hello+I'm+Andriy+%3AD" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=35&duration=6000&pause=1000&color=44F77E&center=true&vCenter=true&width=435&lines=Hello,+I'm+Andriy+%3AD" alt="Typing SVG" />
     </a>
 </h1>
 
-<img align="right" src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif?raw=true" width="500" alt="pinguin"/>
+<img align="right" src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif?raw=true" width="300" alt="pinguin"/>
 
-<div height="">
-
-# Styding software developing and making something intresting 💻
-
-# Stydy in Ukraine 🌍
-# I learn C++ and Python 📔
-# Try to make some intresting things using my skils 🛠️
+<div class="block">
+    <div class="text">
+        <p>
+            🌍 Study in Ukraine <br>
+        </p>
+        <p>
+            📔 I learn C++ and Python <br>
+        </p>
+        <p>
+            🛠️ Trying to make interesting things using my skills <br>
+        </p>
+        <p>
+            When I have a spare time I learn something new or play in video games
+        </p>
+    </div>
+    
 </div>
 
 <h3 align="center">⚙️ Languages and Tools 🪛</h3>
 <div align="center">
-    <a href="" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
-    <a href="" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </div>
 
-Something... 
 
-Languages and Tools
-
-Follow me
+<div class="contributions" align="center"align="center">
+    <h3 > My Contributions </h3>
+</div>
