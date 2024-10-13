@@ -1,4 +1,4 @@
-<img src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/Jfw2.gif" alt="header"/>
+<img src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif" alt="header"/>
 
 About me
 
