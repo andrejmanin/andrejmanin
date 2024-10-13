@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif?raw=true" width="300" alt="pinguin"/>
 
-<div class="block" style="display: flex; justify-content: center; align-items: center; height: 250px; font-size: 16px;">
+<div class="block" style="display: flex; justify-content: center; align-items: center; height: 300px; font-size: 16px;">
     <div class="text" style="margin: 15px">
         <p>
             🌍 Study in Ukraine <br>
@@ -35,7 +35,7 @@
 </div>
 
 
-<div class="contributions" align="center"align="center">
+<!-- <div class="contributions" align="center"align="center">
     <h3 style="font-size: 24px"> My Contributions </h3>
-</div>
+</div> -->
 
