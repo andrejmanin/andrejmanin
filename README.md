@@ -5,9 +5,9 @@
     </a>
 </h1>
 
-<p> Styding software developing and making something intresting 💻 </p>
+Styding software developing and making something intresting 💻
 
-# Stydy in Ukraine 🌍
+Stydy in Ukraine 🌍
 
 <h3 align="center">⚙️ Languages and Tools 🪛</h3>
 <div align="center">
