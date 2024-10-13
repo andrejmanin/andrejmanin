@@ -7,9 +7,7 @@
 
 <h2 align="center"> Styding software developing and making something intresting 💻</h2>
 
-<hr>
-Stydy in Ukraine 🌍
-<hr>
+# Stydy in Ukraine 🌍
 
 <h3 align="center">⚙️ Languages and Tools 🪛</h3>
 <div align="center">
