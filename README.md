@@ -5,7 +5,16 @@
     </a>
 </h1>
 
-About me
+<h2 align="center"> Styding software developing and making something intresting 💻</h2>
+
+<hr>
+Stydy in Ukraine 🌍
+<hr>
+
+<h3 align="center">⚙️ Languages and Tools 🪛</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=C%2b%2b,python,c#,github"/>
+</div>
 
 Something... 
 
