@@ -7,9 +7,11 @@
 
 <img align="right" src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif?raw=true" width="500" alt="pinguin"/>
 
+<div>
 Styding software developing and making something intresting 💻
 
 Stydy in Ukraine 🌍
+</div>
 
 <h3 align="center">⚙️ Languages and Tools 🪛</h3>
 <div align="center">
