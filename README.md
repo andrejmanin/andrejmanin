@@ -7,12 +7,13 @@
 
 <img align="right" src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif?raw=true" width="500" alt="pinguin"/>
 
-<div>
-Styding software developing and making something intresting 💻
+<div height="">
 
-Stydy in Ukraine 🌍
-I learn C++ and Python 📔
-Try to make some intresting things using my skils 🛠️
+# Styding software developing and making something intresting 💻
+
+# Stydy in Ukraine 🌍
+# I learn C++ and Python 📔
+# Try to make some intresting things using my skils 🛠️
 </div>
 
 <h3 align="center">⚙️ Languages and Tools 🪛</h3>
