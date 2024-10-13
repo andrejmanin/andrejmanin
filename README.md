@@ -1,20 +1,3 @@
-<style>
-    .block {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 250px;
-        font-size: 16px;
-    }
-    .text {
-        margin: 15px;
-    }
-    h3 {
-        font-size: 24px;
-    }
-</style>
-
-
 <h1 align="center">
     <a href="">
         <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=35&duration=6000&pause=1000&color=44F77E&center=true&vCenter=true&width=435&lines=Hello,+I'm+Andriy+%3AD" alt="Typing SVG" />
@@ -23,8 +6,8 @@
 
 <img align="right" src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif?raw=true" width="300" alt="pinguin"/>
 
-<div class="block">
-    <div class="text">
+<div class="block" style="display: flex; justify-content: center; align-items: center; height: 250px; font-size: 16px;">
+    <div class="text" style="margin: 15px">
         <p>
             🌍 Study in Ukraine <br>
         </p>
@@ -41,7 +24,7 @@
     
 </div>
 
-<h3 align="center">⚙️ Languages and Tools 🪛</h3>
+<h3 align="center" style="font-size: 24px" >⚙️ Languages and Tools 🪛</h3>
 <div align="center">
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -53,5 +36,5 @@
 
 
 <div class="contributions" align="center"align="center">
-    <h3 > My Contributions </h3>
+    <h3 style="font-size: 24px"> My Contributions </h3>
 </div>
