@@ -5,6 +5,8 @@
     </a>
 </h1>
 
+<img align="right" src="https://github.com/andrejmanin/andrejmanin/blob/main/assets/header.gif?raw=true" width="500" alt="pinguin"/>
+
 Styding software developing and making something intresting 💻
 
 Stydy in Ukraine 🌍
