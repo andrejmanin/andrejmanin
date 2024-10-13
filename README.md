@@ -38,3 +38,5 @@
 <div class="contributions" align="center"align="center">
     <h3 style="font-size: 24px"> My Contributions </h3>
 </div>
+
+![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
