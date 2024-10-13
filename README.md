@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-# Styding software developing and making something intresting 💻
+<p> Styding software developing and making something intresting 💻 </p>
 
 # Stydy in Ukraine 🌍
 
