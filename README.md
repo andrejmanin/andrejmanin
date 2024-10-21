@@ -33,9 +33,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </div>
-
-
-<!-- <div class="contributions" align="center"align="center">
-    <h3 style="font-size: 24px"> My Contributions </h3>
-</div> -->
-
