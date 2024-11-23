@@ -35,4 +35,4 @@
 </div>
 
 
-!github-contribution-grid-snake-dark
+![github-contribution-grid-snake-dark](https://github.com/nikilodiym/andrejmanin/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
