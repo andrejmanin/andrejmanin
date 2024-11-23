@@ -35,4 +35,4 @@
 </div>
 
 
-![snake animation](https://github.com/andrejmanin/andrejmanin/blob/output/github-contribution-grid-snake2.svg)
+![github-contribution-grid-snake-dark]([https://github.com/andrejmanin/andrejmanin/blob/output/github-contribution-grid-snake2.svg](https://github-production-user-asset-6210df.s3.amazonaws.com/134860909/329790084-4c1edc95-6b08-45f3-9124-e34a66da9838.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241123%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241123T114508Z&X-Amz-Expires=300&X-Amz-Signature=06126359ba0e6ce3fa1845705173be1306469d585f1301aafe57f7fcd9255adb&X-Amz-SignedHeaders=host))
