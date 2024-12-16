@@ -12,7 +12,7 @@
             🌍 Study in Ukraine <br>
         </p>
         <p>
-            📔 I learn C++ and Python <br>
+            📔 I learn C++, Python and C# <br>
         </p>
         <p>
             🛠️ Trying to make interesting things using my skills <br>
