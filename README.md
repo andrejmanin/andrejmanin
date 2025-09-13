@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Conspector. It will be a program in which students can found simple description of different topics from the school study program<br>🤝 I’m looking for help with microservice architecture<br>🌱 I’m currently learning C#, ASP.NET, EF Core<br>💬 Ask me about C#, C++, Python or just about the IT industry as a whole<br>⚡ Fun fact, I like write code on C++
+🔭 I’m currently working on Conspector. It will be a program in which students can found simple description of different topics from the school study program<br>🤝 I’m looking for help with microservice architecture<br>🌱 I’m currently learning C#, ASP.NET, EF Core<br>💬 Ask me about C#, C++, Python or just about the IT industry as a whole<br>
 
 
 ## 🌐 Socials:
